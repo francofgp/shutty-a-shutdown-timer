@@ -65,7 +65,7 @@ while True:
             f'Shutdown aborted')
 
     if event == "-LINK-":
-        webbrowser.open("www.google.com.ar")
+        webbrowser.open("https://github.com/francofgp/shutty-a-shutdown-timer")
 
 # Finish up by removing from the screen
 window.close()
