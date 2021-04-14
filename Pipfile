@@ -9,7 +9,6 @@ pyinstaller = "*"
 shutdown = "*"
 install = "*"
 setuptools = "*"
-py2exe = "*"
 
 [dev-packages]
 autopep8 = "*"
