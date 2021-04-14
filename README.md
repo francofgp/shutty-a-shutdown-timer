@@ -38,12 +38,15 @@ python shutty.py
 ## Usage
 
 To use the program just execute it, and you see the following image:
+
 ![Alt text](https://i.imgur.com/u0UJjZI.png "Optional title")
 
 Once you enter the time to shutdown, just hit "Set time", and the program will display the time when the PC will shutdown
+
 ![Alt text](https://i.imgur.com/5yAVP6w.png "Optional title")
 
 And if you want to cancel the shutdown process for any reason just hit "Abort shutdown"
+
 ![Alt text](https://i.imgur.com/PKdTrZ3.png "Optional title")
 
 ### OS
