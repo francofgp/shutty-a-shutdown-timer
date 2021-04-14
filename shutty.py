@@ -1,13 +1,4 @@
 
-
-import base64
-
-
-your_code = base64.b64encode(b"""
-
-
-# all the code of pysimplegui is here, i just use the base64 because
-# if you generete an exe file with pyinstaller the browser will detect it as a virus
 import PySimpleGUI as sg
 import webbrowser
 from shutdown import *
@@ -78,9 +69,3 @@ while True:
 
 # Finish up by removing from the screen
 window.close()
-
-
-#end of the pysimplegui code
-""")
-
-exec(base64.b64decode(your_code))
