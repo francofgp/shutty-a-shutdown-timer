@@ -1,2 +1,5 @@
 .vscode/*
 .vscode/
+build/
+build/*
+shutty.spec
