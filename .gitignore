@@ -3,3 +3,4 @@
 build/
 build/*
 shutty.spec
+__pycache__/
