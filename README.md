@@ -7,6 +7,7 @@ Foobar is a Python library for dealing with word pluralization.
 ## Installation on windows (.EXE FILE)
 
 Just go to [LINK](https://github.com/francofgp/shutty-a-shutdown-timer/blob/master/dist/shutty.exe) and press "Download"and execute the .exe file!.
+It might say that it is a dangerous file, but it's not
 
 ## Execute in your editor
 
