@@ -38,7 +38,7 @@ python shutty.py
 
 ## Usage
 
-To use the program just execute it, and you see the following image:
+To use the program just execute it, and you will see the following image:
 
 ![Alt text](https://i.imgur.com/u0UJjZI.png "Optional title")
 
