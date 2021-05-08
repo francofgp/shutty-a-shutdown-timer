@@ -2,7 +2,6 @@
 
 Shutty is a shutdown timer for your Windows PC, you just set the hours, minutes and seconds, and your computer will shutdown in that time
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation on windows (.EXE FILE)
 
