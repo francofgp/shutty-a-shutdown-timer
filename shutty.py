@@ -3,6 +3,10 @@ import PySimpleGUI as sg
 import webbrowser
 from shutdown import *
 from datetime import datetime, timedelta
+import win32gui, win32con 
+
+hide = win32gui.GetForegroundWindow()
+win32gui.ShowWindow(hide , win32con.SW_HIDE)
 
 sg.theme('Reddit')
 font = ('Courier New', 12)
